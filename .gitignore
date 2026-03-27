@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 依赖目录
+node_modules
+dist
+dist-ssr
+*.local
+
+# 本地环境文件
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db
+
+# 上传的文件（服务器端产生的）
+server/uploads/*
+!server/uploads/.gitkeep
+
+# 运行时博客数据（注释掉以保留 Git 同步博客数据）
+# server/data/blogs.json

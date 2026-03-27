@@ -1,0 +1,29 @@
+[
+  {
+    "id": "blog-1710000001",
+    "title": "欢迎来到我的技术博客",
+    "content": "这是我的第一篇博客文章。在这里，我将分享前端开发的学习心得、项目经验和技术思考。\n\n作为一个热爱编程的开发者，我相信技术的力量可以改变世界。通过这个博客，我希望能够记录自己的成长历程，同时也能帮助到其他正在学习编程的朋友。\n\n这个博客使用了 Vue 3 + Vite 构建前端，Express.js 处理后端逻辑，体现了现代 Web 开发的最佳实践。让我们一起在代码的世界中探索吧！",
+    "tag": "随笔",
+    "coverImage": "",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "updatedAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "blog-1710000002",
+    "title": "Vue 3 组合式 API 使用指南",
+    "content": "Vue 3 引入了组合式 API (Composition API)，这是一种全新的组织组件逻辑的方式。相比于选项式 API，组合式 API 提供了更好的代码组织和逻辑复用能力。\n\n核心概念包括：setup 函数或 script setup 语法糖、ref 和 reactive 响应式数据、computed 计算属性、watch 和 watchEffect 侦听器。\n\n使用 script setup 语法糖可以让代码更加简洁。组件的 props、emits 都可以通过 defineProps 和 defineEmits 来声明，无需额外的配置。\n\n组合式 API 最大的优势在于逻辑复用。通过自定义组合函数 (composables)，我们可以将相关的逻辑封装在一起，在多个组件之间共享。",
+    "tag": "Vue",
+    "coverImage": "",
+    "createdAt": "2024-02-20T14:30:00.000Z",
+    "updatedAt": "2024-02-20T14:30:00.000Z"
+  },
+  {
+    "id": "blog-1710000003",
+    "title": "前端性能优化实战技巧",
+    "content": "性能优化是前端开发中非常重要的一个环节。好的性能不仅能提升用户体验，还能提高搜索引擎排名。\n\n路由懒加载：使用动态 import 实现按需加载，减少首屏加载时间。在 Vue Router 中，可以使用箭头函数配合 import() 实现。\n\n图片懒加载：利用 IntersectionObserver API，只在图片进入视口时才加载，大大减少初始请求数。\n\n代码分割：通过 Vite 的 manualChunks 配置，将第三方库单独打包，利用浏览器缓存提高加载速度。\n\nCSS 优化：使用 CSS 变量实现主题系统，减少重复代码。合理使用 will-change 和 transform 触发 GPU 加速。\n\nSEO 优化：动态更新 meta 标签，添加结构化数据 (JSON-LD)，确保每个页面都有合适的标题和描述。",
+    "tag": "性能优化",
+    "coverImage": "",
+    "createdAt": "2024-03-10T09:15:00.000Z",
+    "updatedAt": "2024-03-10T09:15:00.000Z"
+  }
+]
