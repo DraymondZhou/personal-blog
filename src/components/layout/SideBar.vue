@@ -48,7 +48,7 @@
         </div>
 
         <div class="sidebar-footer">
-          <p class="sidebar-copyright">© 2024 TechBlog</p>
+          <p class="sidebar-copyright">© 2026 TechBlog</p>
         </div>
       </aside>
     </transition>

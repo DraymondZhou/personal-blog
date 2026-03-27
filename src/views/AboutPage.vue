@@ -11,8 +11,7 @@
               的开发者
             </h1>
             <p class="about-desc animate-fadeInUp" style="animation-delay: 0.2s">
-              我是一名全栈开发者，专注于前端技术和用户体验设计。
-              相信技术的力量可以让复杂变简单，让世界更美好。
+              我是一名前端开发者，我相信技术的力量可以让复杂变简单，让世界更美好。
               在这里，我分享我的学习笔记、项目经验和技术思考。
             </p>
           </div>
@@ -23,8 +22,8 @@
                 <span class="avatar-text">&lt;Dev/&gt;</span>
               </div>
               <div class="avatar-info">
-                <span class="avatar-name">Blog Admin</span>
-                <span class="avatar-role">Full-Stack Developer</span>
+                <span class="avatar-name">zhou</span>
+                
               </div>
             </div>
           </div>
@@ -84,10 +83,9 @@ const skills = [
 ]
 
 const timeline = [
-  { year: '2024', title: '技术博客上线', desc: '使用 Vue 3 + Vite 构建个人技术博客，记录学习与成长' },
-  { year: '2023', title: '全栈开发', desc: '深入学习 Node.js 和数据库，成为全栈开发者' },
-  { year: '2022', title: '前端进阶', desc: '掌握 Vue 3、React 等现代前端框架，专注用户体验' },
-  { year: '2021', title: '开始编程', desc: '踏入编程世界，学习 HTML、CSS、JavaScript 基础' }
+  { year: '2026', title: '个人博客上线', desc: '使用Vue3+Vite构建个人技术博客，记录学习与成长' },
+  { year: '2025', title: '前端进阶', desc: '学习Vue3'},
+  { year: '2024', title: '前段基础', desc: '学习 HTML、CSS、JavaScript 基础'}
 ]
 
 onMounted(() => {

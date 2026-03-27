@@ -19,7 +19,7 @@
 
         <div class="footer-contact">
           <h4 class="footer-heading">联系</h4>
-          <a href="mailto:admin@techblog.com" class="footer-link">admin@techblog.com</a>
+          <a href="mailto:admin@techblog.com" class="footer-link">1270123577@qq.com</a>
           <a href="https://github.com" target="_blank" class="footer-link">GitHub</a>
         </div>
       </div>

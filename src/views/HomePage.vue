@@ -12,7 +12,7 @@
         <div class="hero-left">
           <div class="hero-tag animate-fadeInUp">
             <span class="tag-dot"></span>
-            <span>全栈开发者 / 创意设计</span>
+            <span>前端开发者 / 创意设计</span>
           </div>
           <h1 class="hero-title animate-fadeInUp" style="animation-delay: 0.1s">
             用代码<br />
@@ -37,13 +37,13 @@
             </div>
             <div class="stat-divider"></div>
             <div class="stat-item">
-              <span class="stat-number">Vue 3</span>
+              <span class="stat-number">Vue3</span>
               <span class="stat-label">技术栈</span>
             </div>
             <div class="stat-divider"></div>
             <div class="stat-item">
               <span class="stat-number">∞</span>
-              <span class="stat-label">创造力</span>
+              <span class="stat-label">学习动力</span>
             </div>
           </div>
         </div>
